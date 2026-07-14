@@ -2,14 +2,6 @@
 
 > An end-to-end Machine Learning project that predicts social media addiction risk level and explains the result — deployed as an interactive web application.
 
-[![Streamlit App](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://social-media-addiction-prediction-mrxhwrpzucktxtbxuiox3e.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shaymajb/social-media-addiction-prediction)
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square&logo=scikit-learn)
-![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=flat-square&logo=streamlit)
-![MLflow](https://img.shields.io/badge/MLflow-Tracked-0194E2?style=flat-square&logo=mlflow)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
-
 ---
 
 ##  Project Overview
@@ -248,9 +240,6 @@ mlflow ui
 ##  Author
 
 **Chaima Jebali** — Computer Science & Data Science Student
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-shaymajb-181717?style=flat-square&logo=github)](https://github.com/shaymajb)
 
 ---
 
