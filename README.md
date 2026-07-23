@@ -1,4 +1,4 @@
-#  Social Media Addiction Prediction
+#  Digital Wellbeing Risk Assessment
 
 > An end-to-end Machine Learning project that predicts social media addiction risk level and explains the result — deployed as an interactive web application.
 
